@@ -13,7 +13,7 @@
         "php": ">=5.3",
         "ext-zip": "*",
         "ext-fileinfo": "*",
-        "rain/raintpl": "dev/master",
+        "rain/raintpl": "dev-master",
         "dflydev/markdown": "1.*"
     },
     "minimum-stability": "dev",
