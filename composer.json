@@ -1,12 +1,12 @@
 {
-    "name": "vtardia/md2epub",
+    "name": "dietertaotesting/md2epub",
     "description": "Markdown to ePub converter",
-    "homepage": "https://github.com/vtardia/md2epub",
+    "homepage": "https://github.com/dietertaotesting/md2epub",
     "license": "GPL",
     "authors": [
         {
             "name": "md2epub",
-            "homepage": "https://github.com/vtardia/md2epub/graphs/contributors"
+            "homepage": "https://github.com/dietertaotesting/md2epub/graphs/contributors"
         }
     ],
     "require": {
